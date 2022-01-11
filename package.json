@@ -1,0 +1,17 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anant Singh Raghuvanshi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "install": "^0.13.0",
+    "request": "^2.88.2"
+  }
+}
